@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelUtility", "ExcelUtility\ExcelUtility.csproj", "{979CF2EA-927B-4529-95D9-38D918168288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlDataAccess", "SqlDataAccess\SqlDataAccess.csproj", "{9B1DF426-CA49-40E2-BF4C-1E820E4E2570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{979CF2EA-927B-4529-95D9-38D918168288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979CF2EA-927B-4529-95D9-38D918168288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979CF2EA-927B-4529-95D9-38D918168288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979CF2EA-927B-4529-95D9-38D918168288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1DF426-CA49-40E2-BF4C-1E820E4E2570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1DF426-CA49-40E2-BF4C-1E820E4E2570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1DF426-CA49-40E2-BF4C-1E820E4E2570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1DF426-CA49-40E2-BF4C-1E820E4E2570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
